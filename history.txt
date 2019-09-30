@@ -1,0 +1,1000 @@
+  275  sudo pip3 install --user jupyter
+  276  jupyter --version
+  277  sudo apt install jupyter-core
+  278  jupyter --version
+  279  jupyter-notebook
+  280  sudo apt install jupyter-notebook
+  281  jupyter-notebook
+  282  'jupyter notebook'
+  283  jupyter notebook
+  284  pip3 install seaborn
+  285  pip3 install pandas
+  286  pip install pandas
+  287  pip install numpy
+  288  pip install matplotlib
+  289  pip install setuptools
+  290  pip install matplotlib
+  291  pip install seaborn
+  292  cd Downloads/
+  293  bash Miniconda3-latest-Linux-x86_64.sh
+  294  conda install pandas
+  295  conda install -c anaconda pandas 
+  296  export PATH=~/miniconda3/bin:$PATH
+  297  conda install -c anaconda pandas 
+  298  jupyter notebook
+  299  jupyter notebook
+  300  conda install 
+  301  conda install numpy
+  302  conda install matplotlib
+  303  conda install sns
+  304  conda install seaborn
+  305  conda install pandas
+  306  jupyter notebook
+  307  Is
+  308  ls
+  309  mkdir
+  310  pwd
+  311  cd
+  312  dir
+  313  dir
+  314  mkdir
+  315  "mkdir [workspace]"
+  316  mkdir workspace
+  317  cd workspace
+  318  iIs
+  319  is
+  320  Is
+  321  dictionary
+  322  dir
+  323  mkdir workspace
+  324  cd workspace
+  325  ls
+  326  touch README.md
+  327  cp.README.md
+  328  cp.README.md CHANGELOG.md
+  329  cp README.md CHANGELOG.md
+  330  ls
+  331  touch excercise.md
+  332  dir
+  333  cd workspace
+  334  ls
+  335  touch exercise.md
+  336  dir
+  337  mv exercise.md recruit
+  338  dir
+  339  touch exercise.md
+  340  dir
+  341  mv exercise.md /tmp
+  342  rm exercise.md
+  343  cd recruit
+  344  cd..
+  345  cd--
+  346  cd ..
+  347  cd /tmp
+  348  dir
+  349  rm exercise.md
+  350  dir
+  351  cd ..
+  352  cd workspace
+  353  dir
+  354  cd workspace
+  355  touch umuzi.md recuit.md cohort.md
+  356  ls
+  357  echo "awoidf" >> umuzi.md
+  358  dir
+  359  cat umuzi.md
+  360  echo "akeworm" >> recuit.md
+  361  cat umuzi.md recuit.md cohort.md
+  362  echo "ntonto ka-maa" >> cohort.md
+  363  cat umuzi.md recuit.md cohort.md >> summary
+  364  cat summary
+  365  cd workspace
+  366  is
+  367  ls
+  368  touch ls
+  369  ls
+  370  touch recruits.md
+  371  echo "ntonto ka- ntonti" >>cohort.md
+  372  echo "mr.mfene" >> umuzi.md
+  373  echo "phusha ntwana" >> recruits.md
+  374  cat cohort.md recruits.md umuzi.md
+  375  cat cohort.md recruits.md umuzi.md >> summary.md
+  376  echo "THE END" >> summary.md
+  377  cat summary.md
+  378  cd ..
+  379  locate umuzi
+  380  locate umuzi >> search_result.md
+  381  cd search_result.md
+  382  cat search_results
+  383  locate umuzi
+  384  locate umuzi >> search_result.md
+  385  ls
+  386  cat search_result.md
+  387  mkdir
+  388  mkdir ntokozo
+  389  cd Documents
+  390  touch pad_copy.md
+  391  touch pad.md
+  392  cd .. Documents
+  393  cd ..
+  394  cd desktop
+  395  cd Desktop
+  396  mkdir work
+  397  cp pad.md
+  398  cp --help
+  399  cp Documents/pad.md
+  400  ls
+  401  pwd
+  402  mkdir workspace
+  403  cd workspace
+  404  dir
+  405  cd
+  406  locate umuzi
+  407  locate umuzi >> search_result.md
+  408  cat search_result.md
+  409  cd Documents
+  410  \touch pad.md
+  411  ls
+  412  cd
+  413  desktop
+  414  cd Desktop
+  415  touch work
+  416  rm work
+  417  \rmdir work
+  418  rm --f work
+  419  ls
+  420  cd
+  421  cd Documents
+  422  cp pad.md pad_copy.md >> Desktop
+  423  ls
+  424  rm --r Desktop
+  425  ls
+  426  cd
+  427  cd Desktop
+  428  cd
+  429  cd Documents
+  430  cp pad_copy.md >> Desktop
+  431  cp --help
+  432  \mv pad_copy.md >> Desktop
+  433  mv pad_copy.md Desktop/pad_copy.md
+  434  mv pad_copy.md Desktop
+  435  ls
+  436  cat Desktop
+  437  ls
+  438  cd
+  439  mv pad_copy.md Desktop
+  440  ls
+  441  pwd
+  442  mkdir workspace
+  443  cd workspace
+  444  is
+  445  ls
+  446  touch README.md
+  447  cp README.md CHANGELOG.md
+  448  touch exercise.md >> /tmp
+  449  /temp
+  450  ls
+  451  touch exercise.md
+  452  nano exercise.md
+  453  
+  454  mvnano
+  455  is
+  456  ls
+  457  cd workspace
+  458  ls
+  459  cd /tmp
+  460  ls
+  461  rm exercise.md
+  462  cd Documents
+  463  ls
+  464  cd 
+  465  cd Desktop
+  466  mkls
+  467  ls
+  468  cp ~/Documents/pad.md pad_copy.md
+  469  ls
+  470  cp ~/documents/pad.md pad_copy.md
+  471  ls
+  472  cp ~/Documents/pad.md pad_copy.md
+  473  ls
+  474  cat pad_copy.md
+  475  locate updatedb
+  476  cd
+  477  \locate pad_copy.md
+  478  locate pdf
+  479  ls
+  480  locate pdf >> ntokozo
+  481  cd ntokozo
+  482  ls
+  483  cd
+  484  cd Desktop
+  485  ls
+  486  cd
+  487  locate pdf >> ntonto
+  488  cd ntonto
+  489  mv locate pdf ~/Desktop/ntonto
+  490  ls /desktop
+  491  cd desktop
+  492  ls /Desktop
+  493  cd Desktop
+  494  ls
+  495  cd
+  496  cd Desktop
+  497  ls
+  498  $
+  499  ls /etc/perl
+  500  ls
+  501  ls /
+  502  pwd
+  503  ls
+  504  mkdir learning_unix
+  505  cd learning_unix
+  506  mkdir outer
+  507  cd outer
+  508  pwd
+  509  -p!
+  510  _-p!
+  511  -p!
+  512  cd
+  513  cd home
+  514  mkdir home
+  515  cd home
+  516  mkdir learner
+  517  cd learner
+  518  cd
+  519  cd /home/learner/
+  520  ls
+  521  cd home
+  522  ls
+  523  cd
+  524  cd /home/learner/
+  525  cd /home/learner
+  526  cd home/learner
+  527  -p!
+  528  ../..
+  529  cd ../..
+  530  cd learning_unix
+  531  ls
+  532  cd ../../../tmp
+  533  cd
+  534  cd tmps
+  535  cd tmp
+  536  cd learning_unix
+  537  cd /tmp
+  538  pwd
+  539  cd /
+  540  cd ~
+  541  cd /tmp
+  542  cd ~
+  543  cd tmp
+  544  cd /tmp
+  545  cd
+  546  cd ~/learning_unix
+  547  ls -l
+  548  ls -R
+  549  ls -l -t -r
+  550  ls -L
+  551  ls -lh
+  552  man ls
+  553  man man
+  554  man cd
+  555  man ls
+  556  cd
+  557  cd learning_unix/
+  558  touch heaven.txt
+  559  ls
+  560  touch earth.txt
+  561  ls
+  562  mkdir temp
+  563  mv heaven.txt temp/
+  564  mv earth.txt temp/
+  565  ls temp
+  566  ls temp/
+  567  mv *.txt temp/
+  568  ls temp
+  569  touch rags
+  570  ls
+  571  mv rags temp/riches
+  572  ls
+  573  cd temp
+  574  ls
+  575  cd
+  576  ls
+  577  mv temp/riches temp/rangs
+  578  cd temp
+  579  locate temp
+  580  cd learning_unix
+  581  ls
+  582  mv temp/riches temp/rags
+  583  ls
+  584  cd temp
+  585  ls
+  586  cd learnind_unix
+  587  cd learning_unix
+  588  ls
+  589  ls */temp
+  590  ls /temp
+  591  cd temp
+  592  ls
+  593  cd
+  594  mkdir temp2
+  595  mv temp2 temp
+  596  ls temp/
+  597  cd learning_unix
+  598  ls temp/
+  599  ls
+  600  mkdir temp2
+  601  mv temp2 temp
+  602  ls temp/
+  603  mkdir temp3
+  604  cd /tmp
+  605  mv /temp3 temp2
+  606  mv temp3 temp2
+  607  cd
+  608  cd learning_unix/
+  609  ls
+  610  cd /tmp
+  611  mv temp3 temp2/
+  612  mv /learning_unix/temp3 /learning_unix/temp2
+  613  ls
+  614  cd /learning_unix
+  615  cd
+  616  cd learning_unix/
+  617  ls
+  618  cd /tmp
+  619  mv /recruit/learning_unix/temp3 /recruit/learning_unix/temp2/
+  620  ls /recruit/learning_unix/temp3
+  621  cd
+  622  cd learning_unix/
+  623  ls
+  624  cd /tmp
+  625  ls
+  626  cd
+  627  cd learning_unix/
+  628  ls
+  629  ls temp
+  630  ls
+  631  ls temp3
+  632  cd /tmp
+  633  mv /recruit/learning_unix/temp3 /recruit/learning_unix/temp/temp2
+  634  ls /recruit/learning_unix/temp3 
+  635  pwd
+  636  cd 
+  637  cd /recruit/learning_unix/temp3 
+  638  cd learning_unix/
+  639  cd temp
+  640  ls\
+  641  ls
+  642  cd temp3
+  643  cd temp2
+  644  ls
+  645  cd ..
+  646  ls
+  647  cd
+  648  cd learning_unix/
+  649  ls
+  650  cd temp3
+  651  ls
+  652  pwd
+  653  cd /tmp
+  654  mv /home/recruit/learning_unix/temp3 /home/recruit/learning_unix/temp/temp2
+  655  cd 
+  656  cd learning_unix/
+  657  ls
+  658  cd temp
+  659  ls
+  660  rm -i
+  661  rm -i earth.txt heaven.txt rags
+  662  touch earth.txt heaven.txt 
+  663  rm -i *.txt
+  664  rmdir temp2/temp3/
+  665  rmdir temp2
+  666  cd
+  667  cd learning_unix/
+  668  ls
+  669  rmdir temp
+  670  touch file1
+  671  cp file1 file2
+  672  ls
+  673  rmdir outer
+  674  touch ~/file3
+  675  ls
+  676  cp ~/file3
+  677  ls
+  678  touch ~/file3
+  679  ls
+  680  cp ~/file3 .
+  681  ls
+  682  rm file*
+  683  ls
+  684  touch ntonto.txt
+  685  nano ntonto.txt
+  686  cat ntonto.txt
+  687  echontonto.txt sdfj;kla
+  688  echo ntonto.txt sklje;jkrgrgsoidfgjsdhtrg
+  689  echo ntonto.txt
+  690  cat ntonto.txt
+  691  nano opening_lines.txt
+  692  cat opening_lines.txt 
+  693  echo $USER
+  694  echo $HOME
+  695  echo $PATH
+  696  cd
+  697  curl https://raw.githubusercontent.com/blahah/command_line_bootcamp/master/testfiles/grades.txt > grades.txt
+  698  less testfile.vcf
+  699  ls
+  700  pwd
+  701  mkdir workspace
+  702  ls
+  703  pwd
+  704  mkdir workspace
+  705  cd workspace
+  706  ls
+  707  touch README.md
+  708  cp README.md CHANGELOG.md
+  709  ls
+  710  # Task1
+  711  ls
+  712  pwd
+  713  mkdir workspace
+  714  cd workspace
+  715  ls
+  716  touch README.md
+  717  cp README.md CHANGELOG.md
+  718  # Task2
+  719  touch exercise.md
+  720  mv exercise.md /tmp
+  721  # Task3
+  722  touch umuzi.md recruits.md cohort.md
+  723  echo umuzi.md i love umuzi
+  724  echo recruits.md i love music
+  725  echo cohort.md i love learning
+  726  cat umuzi.md cat recruits.md cat cohort.md
+  727  ls
+  728  touch umuzi.md recruits.md cohort.md
+  729  ls
+  730  echo umuzi.md i love umuzi
+  731  echo recruits.md i love music
+  732  echo cohort.md i love learning
+  733  ls
+  734  cat umuzi.md
+  735  cat recruits.md
+  736  echo "music is my life" > recruits.md 
+  737  cat recruits.md
+  738  echo "i love umuzi" > umuzi.md
+  739  echo "i love music" > recruits.md
+  740  echo "i love learning" > cohort.md
+  741  cat *.md 
+  742  ls
+  743  cat umuzi.md recruits.md cohort.md
+  744  cat umuzi.md recruits.md cohort.md > summary.md
+  745  cat summary.md
+  746  python
+  747  pip3 install jupyter
+  748  jupyter notebook
+  749  # Task1
+  750  ls
+  751  pwd
+  752  mkdir workspace
+  753  cd workspace
+  754  ls
+  755  touch README.md
+  756  cp README.md CHANGELOG.md
+  757  # Task2
+  758  touch exercise.md
+  759  mv exercise.md /tmp
+  760  # Task3
+  761  touch umuzi.md recruits.md cohort.md
+  762  ls
+  763  echo "i love umuzi" > umuzi.md
+  764  echo "i love music" > recruits.md
+  765  echo "i love learning" > cohort.md
+  766  cat umuzi.md recruits.md cohort.md
+  767  cat umuzi.md recruits.md cohort.md > summary.md
+  768  echo "The End" > summary.md
+  769  cat summary.md
+  770  # Task1
+  771  ls
+  772  pwd
+  773  mkdir workspace
+  774  cd workspace
+  775  ls
+  776  touch README.md
+  777  cp README.md CHANGELOG.md
+  778  # Task2
+  779  touch exercise.md
+  780  mv exercise.md /tmp
+  781  # Task3
+  782  touch umuzi.md recruits.md cohort.md
+  783  ls
+  784  echo "i love umuzi" > umuzi.md
+  785  echo "i love music" > recruits.md
+  786  echo "i love learning" > cohort.md
+  787  cat umuzi.md recruits.md cohort.md
+  788  cat umuzi.md recruits.md cohort.md > summary.md
+  789  echo "The End" >> summary.md
+  790  cat summary.md
+  791  cd
+  792  locate umuzi
+  793  # Task1
+  794  ls
+  795  pwd
+  796  mkdir workspace
+  797  cd workspace
+  798  ls
+  799  touch README.md
+  800  cp README.md CHANGELOG.md
+  801  # Task2
+  802  touch exercise.md
+  803  mv exercise.md /tmp
+  804  # Task3
+  805  touch umuzi.md recruits.md cohort.md
+  806  ls
+  807  echo "i love umuzi" > umuzi.md
+  808  echo "i love music" > recruits.md
+  809  echo "i love learning" > cohort.md
+  810  cat umuzi.md recruits.md cohort.md
+  811  cat umuzi.md recruits.md cohort.md > summary.md
+  812  echo "The End" >> summary.md
+  813  # task4
+  814  cd
+  815  locate umuzi
+  816  locate umuzi > search_result.md
+  817  ls /workspace
+  818  cd workspace
+  819  ls
+  820  cd workspace
+  821  ls
+  822  cd
+  823  locate umuzi
+  824  locate umuzi > search_result.md
+  825  ls
+  826  # Task1
+  827  ls
+  828  pwd
+  829  mkdir workspace
+  830  cd workspace
+  831  ls
+  832  touch README.md
+  833  cp README.md CHANGELOG.md
+  834  # Task2
+  835  touch exercise.md
+  836  mv exercise.md /tmp
+  837  # Task3
+  838  touch umuzi.md recruits.md cohort.md
+  839  ls
+  840  echo "i love umuzi" > umuzi.md
+  841  echo "i love music" > recruits.md
+  842  echo "i love learning" > cohort.md
+  843  cat umuzi.md recruits.md cohort.md
+  844  cat umuzi.md recruits.md cohort.md > summary.md
+  845  echo "The End" >> summary.md
+  846  # task4
+  847  cd
+  848  locate umuzi
+  849  locate umuzi > search_result.md
+  850  cat search_result.md
+  851  Task1
+  852  ls
+  853  pwd
+  854  mkdir workspace
+  855  cd workspace
+  856  ls
+  857  touch README.md
+  858  cp README.md CHANGELOG.md
+  859  # Task2
+  860  touch exercise.md
+  861  mv exercise.md /tmp
+  862  # Task3
+  863  touch umuzi.md recruits.md cohort.md
+  864  ls
+  865  echo "i love umuzi" > umuzi.md
+  866  echo "i love music" > recruits.md
+  867  echo "i love learning" > cohort.md
+  868  cat umuzi.md recruits.md cohort.md
+  869  cat umuzi.md recruits.md cohort.md > summary.md
+  870  echo "The End" >> summary.md
+  871  # task4
+  872  cd
+  873  locate umuzi
+  874  locate umuzi > search_result.md
+  875  cd Documents 
+  876  touch pad.md
+  877  cd
+  878  cd Desktop
+  879  mkdir work
+  880  cp /home/recruit/Documents/pad.md pad_copy.md
+  881  ls
+  882  Task1
+  883  ls
+  884  pwd
+  885  mkdir workspace
+  886  cd workspace
+  887  ls
+  888  touch README.md
+  889  cp README.md CHANGELOG.md
+  890  # Task2
+  891  touch exercise.md
+  892  mv exercise.md /tmp
+  893  # Task3
+  894  touch umuzi.md recruits.md cohort.md
+  895  ls
+  896  echo "i love umuzi" > umuzi.md
+  897  echo "i love music" > recruits.md
+  898  echo "i love learning" > cohort.md
+  899  cat umuzi.md recruits.md cohort.md
+  900  cat umuzi.md recruits.md cohort.md > summary.md
+  901  echo "The End" >> summary.md
+  902  # task4
+  903  cd
+  904  locate umuzi
+  905  locate umuzi > search_result.md
+  906  cd Documents 
+  907  touch pad.md
+  908  cd
+  909  cd Desktop
+  910  mkdir work
+  911  cp /home/recruit/Documents/pad.md pad_copy.md
+  912  ls
+  913  # Task1
+  914  ls
+  915  pwd
+  916  mkdir workspace
+  917  cd workspace
+  918  ls
+  919  touch README.md
+  920  cp README.md CHANGELOG.md
+  921  # Task2
+  922  touch exercise.md
+  923  mv exercise.md /tmp
+  924  # Task3
+  925  touch umuzi.md recruits.md cohort.md
+  926  ls
+  927  echo "i love umuzi" > umuzi.md
+  928  echo "i love music" > recruits.md
+  929  echo "i love learning" > cohort.md
+  930  cat umuzi.md recruits.md cohort.md
+  931  cat umuzi.md recruits.md cohort.md > summary.md
+  932  echo "The End" >> summary.md
+  933  # task4
+  934  cd
+  935  locate umuzi
+  936  locate umuzi > search_result.md
+  937  cd Documents 
+  938  touch pad.md
+  939  cd
+  940  cd Desktop
+  941  mkdir work
+  942  cp /home/recruit/Documents/pad.md pad_copy.md
+  943  locate updatedb
+  944  cd -
+  945  locate pad_copy.md
+  946  locate *.pdf
+  947  locate *.pdf > nice
+  948  ls
+  949  cat nice
+  950  nano my_bio.md
+  951  mkdir my_files
+  952  mv my_bio.md my_files
+  953  cd my_files
+  954  ls\
+  955  ls
+  956  # Task1
+  957  ls
+  958  pwd
+  959  mkdir workspace
+  960  cd workspace
+  961  ls
+  962  touch README.md
+  963  cp README.md CHANGELOG.md
+  964  # Task2
+  965  touch exercise.md
+  966  mv exercise.md /tmp
+  967  # Task3
+  968  touch umuzi.md recruits.md cohort.md
+  969  ls
+  970  echo "i love umuzi" > umuzi.md
+  971  echo "i love music" > recruits.md
+  972  echo "i love learning" > cohort.md
+  973  cat umuzi.md recruits.md cohort.md
+  974  cat umuzi.md recruits.md cohort.md > summary.md
+  975  echo "The End" >> summary.md
+  976  # Task4
+  977  cd
+  978  locate umuzi
+  979  locate umuzi > search_result.md
+  980  #Task5
+  981  cd Documents
+  982  touch pad.md
+  983  cd
+  984  cd Desktop
+  985  mkdir work
+  986  cp /home/recruit/Documents/pad.md pad_copy.md
+  987  locate updatedb
+  988  cd -
+  989  locate pad_copy.md
+  990  #Task6
+  991  locate *.pdf
+  992  locate *.pdf > nice
+  993  cat nice
+  994  #Task7
+  995  nano my_bio.md
+  996  # Task1
+  997  ls
+  998  pwd
+  999  mkdir workspace
+ 1000  cd workspace
+ 1001  ls
+ 1002  touch README.md
+ 1003  cp README.md CHANGELOG.md
+ 1004  # Task2
+ 1005  touch exercise.md
+ 1006  mv exercise.md /tmp
+ 1007  cd
+ 1008  cd /tmp
+ 1009  ls
+ 1010  cd
+ 1011  cd workspace
+ 1012  rm /home/recruit/tmp/exercise.md
+ 1013  # Task2
+ 1014  touch exercise.md
+ 1015  mv exercise.md /tmp
+ 1016  rm exercise.md
+ 1017  Task6
+ 1018  locate *.pdf
+ 1019  locate *.pdf > nice
+ 1020  cat nice
+ 1021  cat nice\
+ 1022  cat nice
+ 1023  ls
+ 1024  cat Music
+ 1025  mkdir git-basic-exercises
+ 1026  cd git-basic-exercises
+ 1027  ls -a
+ 1028  git init
+ 1029  ls -a
+ 1030  git status
+ 1031  touch README.MD
+ 1032  ls -a
+ 1033  # Task1
+ 1034  ls
+ 1035  pwd
+ 1036  mkdir workspace
+ 1037  cd workspace
+ 1038  ls
+ 1039  touch README.md
+ 1040  cp README.md CHANGELOG.md
+ 1041  # Task2
+ 1042  touch exercise.md
+ 1043  mv exercise.md /tmp
+ 1044  rm /home/recruit/tmp/exercise.md
+ 1045  # Task3
+ 1046  touch umuzi.md recruits.md cohort.md
+ 1047  ls
+ 1048  echo "i love umuzi" > umuzi.md
+ 1049  echo "i love music" > recruits.md
+ 1050  echo "i love learning" > cohort.md
+ 1051  cat umuzi.md recruits.md cohort.md
+ 1052  cat umuzi.md recruits.md cohort.md > summary.md
+ 1053  echo "The End" >> summary.md
+ 1054  # Task4
+ 1055  cd
+ 1056  locate umuzi
+ 1057  locate umuzi > search_result.md
+ 1058  #Task5
+ 1059  cd Documents
+ 1060  touch pad.md
+ 1061  cd
+ 1062  cd Desktop
+ 1063  mkdir work
+ 1064  cp /home/recruit/Documents/pad.md pad_copy.md
+ 1065  locate updatedb
+ 1066  cd -
+ 1067  locate pad_copy.md
+ 1068  # Task1
+ 1069  ls
+ 1070  pwd
+ 1071  mkdir workspace
+ 1072  cd workspace
+ 1073  ls
+ 1074  touch README.md
+ 1075  cp README.md CHANGELOG.md
+ 1076  # Task2
+ 1077  touch exercise.md
+ 1078  mv exercise.md /tmp
+ 1079  rm /home/recruit/tmp/exercise.md
+ 1080  # Task3
+ 1081  touch umuzi.md recruits.md cohort.md
+ 1082  ls
+ 1083  echo "i love umuzi" > umuzi.md
+ 1084  echo "i love music" > recruits.md
+ 1085  echo "i love learning" > cohort.md
+ 1086  cat umuzi.md recruits.md cohort.md
+ 1087  cat umuzi.md recruits.md cohort.md > summary.md
+ 1088  echo "The End" >> summary.md
+ 1089  # Task4
+ 1090  cd
+ 1091  locate umuzi
+ 1092  locate umuzi > search_result.md
+ 1093  #Task5
+ 1094  cd Documents
+ 1095  touch pad.md
+ 1096  cd
+ 1097  cd Desktop
+ 1098  mkdir work
+ 1099  cp /home/recruit/Documents/pad.md pad_copy.md
+ 1100  locate updatedb
+ 1101  cd -
+ 1102  locate pad_copy.md
+ 1103  #Task6
+ 1104  locate *.pdf
+ 1105  locate *.pdf > nice
+ 1106  cat nice
+ 1107  #Task7
+ 1108  nano my_bio.md
+ 1109  Initial commit
+ 1110  mkdir git-basic-exercises
+ 1111  cd git-basic-exercises
+ 1112  ls -a
+ 1113  git init
+ 1114  ls -a
+ 1115  git status
+ 1116  touch README.MD
+ 1117  ls -a
+ 1118  git status
+ 1119  git log
+ 1120  git add
+ 1121  #Initial commit
+ 1122  mkdir git-basic-exercises
+ 1123  cd git-basic-exercises
+ 1124  ls -a
+ 1125  git init
+ 1126  ls -a
+ 1127  git status
+ 1128  touch README.md
+ 1129  ls -a
+ 1130  git status
+ 1131  git log
+ 1132  git add README.md
+ 1133  git status
+ 1134  git rm README.md
+ 1135  git status
+ 1136  git rm --<README.md>..
+ 1137  cd
+ 1138  file:///home/recruit/Downloads/progit.pdf file:///home/recruit/Downloads/progit.pdf 
+ 1139  #Initial commit
+ 1140  mkdir git-basic-exercises
+ 1141  cd git-basic-exercises
+ 1142  ls -a
+ 1143  git init
+ 1144  ls -a
+ 1145  git status
+ 1146  touch README.md
+ 1147  ls -a
+ 1148  git status
+ 1149  git log
+ 1150  git add README.md
+ 1151  git status
+ 1152  git rm README.md
+ 1153  git status
+ 1154  mkdir git-basic-exercises
+ 1155  cd git-basic-exercises
+ 1156  ls -a
+ 1157  git init
+ 1158  ls -a
+ 1159  git status
+ 1160  touch README.MD
+ 1161  ls -a
+ 1162  git status
+ 1163  git rm <README.MD>
+ 1164  git rm <README.MD>...
+ 1165  git rm README.md
+ 1166  git rm--README.MD
+ 1167  git rm --README.md 
+ 1168  git reset <README.MD>...
+ 1169  ls
+ 1170  git status
+ 1171  cd /home/yourusername/Desktop/program-1.2.3
+ 1172  cd /home/yourusername/Downloads
+ 1173  pwd
+ 1174  cd /home/recruit/Downloads
+ 1175  ls
+ 1176  cd utserver.tar.gz
+ 1177  ls
+ 1178  cd  utorrent-server-alpha-v3_3
+ 1179  xdg-open INSTALL
+ 1180  ls
+ 1181  ./configure
+ 1182  make
+ 1183  sudo make install
+ 1184  ./configure
+ 1185  make
+ 1186  sudo make install
+ 1187  ./configure
+ 1188  ls
+ 1189  cd utserver
+ 1190  cd docs
+ 1191  ls
+ 1192  mkdir git-basic-exercises
+ 1193  cd git-basic-exercises
+ 1194  ls -a
+ 1195  git init
+ 1196  git status
+ 1197  #Initial commit
+ 1198  mkdir git-basic-exercises
+ 1199  cd git-basic-exercises
+ 1200  ls -a
+ 1201  git init
+ 1202  ls -a
+ 1203  git status
+ 1204  touch README.md
+ 1205  ls -a
+ 1206  git status
+ 1207  git log
+ 1208  git add README.me.md
+ 1209  git add README.md
+ 1210  git status
+ 1211  mkdir git-basic-exercises
+ 1212  cd git-basic-exercises
+ 1213  ls -a
+ 1214  git status
+ 1215  touch README.md
+ 1216  ls -a
+ 1217  git status
+ 1218  mkdir git-basic-exercises
+ 1219  cd git-basic-exercises/
+ 1220  ls -a
+ 1221  git init
+ 1222  ls -a
+ 1223  git status
+ 1224  touch README.md
+ 1225  ls -a
+ 1226  git status
+ 1227  git log
+ 1228  git add READ.md 
+ 1229  git status
+ 1230  git commit
+ 1231  git status
+ 1232  git commit READ.md
+ 1233  git add README.md 
+ 1234  git commit
+ 1235  git status
+ 1236  git rm --cached README.md
+ 1237  git status
+ 1238  git add README.md 
+ 1239  git commit 
+ 1240  git status
+ 1241  git commit -m "initial commit"
+ 1242  git log
+ 1243  nano README.md 
+ 1244  cat README.md
+ 1245  git status
+ 1246  git add README.md
+ 1247  git commit -m "second commit"
+ 1248  nano README.md 
+ 1249  cat 
+ 1250  cat README.md 
+ 1251  git add README.md 
+ 1252  git commit -m "third commit"
+ 1253  git log
+ 1254  nano README.md 
+ 1255  git checkout 230c60c47
+ 1256  cat README.md 
+ 1257  git checkout master
+ 1258  cat README.md 
+ 1259  git branch
+ 1260  git branch milkshake-flavours
+ 1261  git branch
+ 1262  git checkout milkshake-flavours 
+ 1263  git branch
+ 1264  nano milkshakes.md
+ 1265  git checkout milkshake-flavours 
+ 1266  nano milkshakes.md
+ 1267  git status
+ 1268  git add milkshakes.md
+ 1269  git commit -m "added initial flavours"
+ 1270  git log
+ 1271  git checkout master
+ 1272  git branch history
+ 1273  git log
+ 1274  history > history.txt
